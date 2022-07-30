@@ -1,0 +1,14 @@
+carinfo=["RSR19"] # car information
+WB=[2522.0] # wheelbase, mm
+Track=[1725.0, 1710.0] # track at axle [FA, RA], mm
+RH=[51.0, 58.5] # ride height at axle [FA, RA], mm
+RCH=[12.42, 38.57] # roll center height [FA, RA], mm
+MRdpr=[0.665, 0.812] # motion ratio damper [FA, RA], -
+MRarb=[1.052, 0.572] # motion ratio anti roll bar [FA, RA], -
+LoadRad=[325.8, 340.3] # loaded radius [FA, RA], mm
+SprRate=[240.0, 250.0] # spring stiffness [FA, RA], N/mm
+ArbRate=[26.4, 28.9] # anti roll bar rate [FA, RA], N/mm
+TireRate=[334.0, 339.0] # tire stiffness [FA, RA], N/mm
+Wtot_whl=[339.7, 338.5, 363.7, 345.1] # total masses at wheel [FL, FR, RL, RR], kg
+WunSusp_whl=[50.5, 50.5, 50.6, 50.6] # unsuspended masses at wheel [FL, FR, RL, RR], kg
+CoGtot0RH=[284.0] # CoG height without any RH, mm
